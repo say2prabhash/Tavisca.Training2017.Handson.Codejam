@@ -1,0 +1,6 @@
+C:\Users\pmohanty\Documents\Visual Studio 2017\Projects\Acgt\Acgt\bin\Debug\Acgt.exe.config
+C:\Users\pmohanty\Documents\Visual Studio 2017\Projects\Acgt\Acgt\bin\Debug\Acgt.exe
+C:\Users\pmohanty\Documents\Visual Studio 2017\Projects\Acgt\Acgt\bin\Debug\Acgt.pdb
+C:\Users\pmohanty\Documents\Visual Studio 2017\Projects\Acgt\Acgt\obj\Debug\Acgt.exe
+C:\Users\pmohanty\Documents\Visual Studio 2017\Projects\Acgt\Acgt\obj\Debug\Acgt.pdb
+C:\Users\pmohanty\Documents\Visual Studio 2017\Projects\Acgt\Acgt\obj\Debug\Acgt.csprojResolveAssemblyReference.cache
