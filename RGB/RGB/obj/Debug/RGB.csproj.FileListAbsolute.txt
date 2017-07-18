@@ -1,0 +1,6 @@
+D:\pmohanty_solution\RGB\RGB\bin\Debug\RGB.exe.config
+D:\pmohanty_solution\RGB\RGB\bin\Debug\RGB.exe
+D:\pmohanty_solution\RGB\RGB\bin\Debug\RGB.pdb
+D:\pmohanty_solution\RGB\RGB\obj\Debug\RGB.csprojResolveAssemblyReference.cache
+D:\pmohanty_solution\RGB\RGB\obj\Debug\RGB.exe
+D:\pmohanty_solution\RGB\RGB\obj\Debug\RGB.pdb
